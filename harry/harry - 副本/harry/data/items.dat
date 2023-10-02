@@ -1,0 +1,62 @@
+#0
+金币
+魔法学院内的货币，嗯，魔法师其实也用金币。 
+0             // health_gain
+0             // wisdom_gain
+0             // defensive_gain
+
+#1
+蜘蛛眼
+蜘蛛的眼睛具有一定的回复功效，味道着实不令人喜欢。   
+5             // health_gain
+10             // wisdom_gain
+0             // defensive_gain
+
+# 2
+狼牙
+研磨成粉可作为药。    
+5             // health_gain
+10             // wisdom_gain
+0             // defensive_gain
+
+# 3
+鱼鳍
+不错的一种药，晒干后便可食用。   
+10             // health_gain
+10             // wisdom_gain
+5             // defensive_gain
+
+# 4
+龙之精髓
+具有超强的回复能力，甚至能把你从死亡边缘来回来。    
+20             // health_gain
+10             // wisdom_gain
+0             // defensive_gain
+
+# 5
+龙脊之杖
+拥有强大的龙之魔法。    
+0             // health_gain
+50             // wisdom_gain
+0             // defensive_gain
+
+#  6
+蜘蛛皇冠
+缠满蜘蛛网的皇冠。    
+5             // health_gain
+10             // wisdom_gain
+20             // defensive_gain
+
+# 7
+狼骨法杖
+拥有强大的狼人力量，据说在满月时就会展现出恐怖的力量。   
+0             // health_gain
+40             // wisdom_gain
+0             // defensive_gain
+
+# 8
+接骨法杖
+三大死亡圣器之一  
+20             // health_gain
+50             // wisdom_gain
+30             // defensive_gain

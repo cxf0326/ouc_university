@@ -1,0 +1,88 @@
+#	//0
+[家]
+这里是你的家，准确的来讲是你的姨妈家，你小时候生活的地方。
+2	//exit number
+1 5	//exits: 对角巷，霍格沃茨城堡
+0
+-1
+0	//npc number
+-1	//npcs
+1 -1	//enter and leave script
+
+#	//1
+[对角巷]
+通过轻敲破釜酒吧后面小天井的砖墙，你来到对角巷，这里是魔法界最繁华的商业街道，里面可购买到你所需要的大部分用品。
+2	//exit number
+0 5	//exits: 家，霍格沃茨城堡
+2
+4 5
+0	//npc number
+0	//npcs
+-1 -1	//enter and leave script
+
+#	//2
+[禁林]
+新生仪式上警戒过不要进入的一处密林，会有神秘商人还有马人等人物出没。
+2	//exit number
+5 7	//exits: 霍格沃茨城堡，魁地奇球场
+2
+0 1
+0	//npc number
+-1	//npcs：灭绝师太
+-1 -1	//enter and leave script
+
+#	//3
+[图书馆]
+这里是学校最神秘的地点之一，你可以从中领悟一些魔法的奥义，注意不要偷偷前往禁书区哦~
+1	//exit number
+1	//exits: 霍格沃茨城堡
+0
+-1
+2	//npc number
+0 4	//npcs
+-1 -1	//enter and leave script
+
+#	//4
+[黑湖]
+一片寂静的湖，经常会传出美人鱼的歌声。
+1	//exit number
+5	//exits: 霍格沃茨城堡
+1
+8
+1	//npc number
+4	//npcs
+-1 -1	//enter and leave script
+
+#	//5
+[霍格沃茨城堡]
+这里是欧洲最古老最著名的魔法学校之一，你将在这里完成学业成为一名合格的巫师。
+7	//exit number
+0 1 2 3 4 6 7	//exits: 家 对角巷 禁林 图书馆 黑湖 迷宫 魁地奇球场
+2
+6 7
+5	//npc number
+0 1 2 3 4	//npcs
+-1 -1	//enter and leave script
+
+#	//6
+[迷宫]
+恭喜你完成了三强争霸赛的前两轮，解锁了最后一个项目地点——迷宫，祝你好运！
+1	//exit number
+5	//exits: 霍格沃茨城堡
+3
+2 3 11
+0	//npc number
+-1	//npcs
+-1 -1	//enter and leave script
+
+#	//7
+[魁地奇球场]
+这里是一片500英尺长，180英尺宽的椭圆形场地，每年的学院杯也在这里进行，留下了无数个精彩瞬间。
+2	//exit number
+2 5	//exits: 禁林 霍格沃茨城堡
+2
+9 10
+1	//npc number
+2	//npcs：欧阳克
+-1 -1	//enter and leave script
+

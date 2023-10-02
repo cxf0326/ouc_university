@@ -1,0 +1,11 @@
+﻿  GameController.cpp
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameController.cpp(62,20): error C2039: "setName": 不是 "Player" 的成员
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameSetting.h(69,7): message : 参见“Player”的声明
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameController.cpp(102,20): error C2039: "setCriticalRate": 不是 "Player" 的成员
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameSetting.h(69,7): message : 参见“Player”的声明
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameController.cpp(106,20): error C2039: "setCriticalPower": 不是 "Player" 的成员
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameSetting.h(69,7): message : 参见“Player”的声明
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameController.cpp(110,20): error C2039: "setAgility": 不是 "Player" 的成员
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameSetting.h(69,7): message : 参见“Player”的声明
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameController.cpp(112,16): error C2039: "setItemList": 不是 "Player" 的成员
+C:\Users\Administrator\Desktop\harry\harry - 副本\harry\GameSetting.h(69,7): message : 参见“Player”的声明
